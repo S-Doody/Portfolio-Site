@@ -16,3 +16,19 @@ li {
     padding: 30px;
 }
 
+.main {
+    display: block;
+    text-align: center;
+    padding-top: 12rem;
+    font-size: 1.5rem;
+ }
+ 
+ 
+ .main img {
+   border-radius: 50%;
+   margin-top: 7rem;
+   width: 18%;
+   height: 18%;
+ }
+ 
+
