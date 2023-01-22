@@ -20,6 +20,10 @@ li {
     padding: 30px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .main {
     display: block;
     width: 100%;
@@ -35,24 +39,52 @@ li {
    height: 18%;
  }
 
- .AboutMe {
+ .about-me {
     display: block;
     text-align: center;
     width: 100%;
  }
 
- .AboutMe p {
+ .about-me p {
     font-size: 1.5rem;
  }
 
- .Projects {
+ .projects {
     display: block;
     text-align: center;
     margin: 7rem;
  }
 
- .Projects h2 {
+ .projects h2 {
     padding-top: 2rem;
  }
+
+ .skills {
+    display: block;
+    text-align: center;
+ }
+
+ .skill-container {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .contact {
+    padding-top: 12rem;
+    padding-left: 5rem;
+ }
+
+ .contact p {
+    font-size: 1.3rem;
+ }
+
+ .contact-options {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    padding-left: 5rem;
+ }
+
  
 
